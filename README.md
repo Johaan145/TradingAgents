@@ -1,3 +1,5 @@
+> **Fork note:** this fork adds a run-to-run consistency study of TradingAgents (60 runs, 6 tickers). Results and method: [CONSISTENCY_EXPERIMENT.md](CONSISTENCY_EXPERIMENT.md). Everything below is the upstream README.
+
 <p align="center">
   <img src="tradingagents/assets/tauric-logo.svg" width="60%" alt="Tauric Research">
 </p>

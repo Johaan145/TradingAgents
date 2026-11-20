@@ -1,0 +1,5 @@
+**Recommendation**: Underweight
+
+**Rationale**: The debate highlights a deep disconnect between the bull's hope for a mean reversion and the heavy weight of the bear's technical and fundamental critique. While the bull points to an oversold RSI of 36.11 and an appealing lower Bollinger Band of 1972.52, the bear successfully demonstrates that TCS.NS is suffering from significant overhead resistance, trading well below its 50-day SMA (2264.40) and 200-day SMA (2467.64). Furthermore, the deep negative MACD (-62.92) and lack of a concrete near-term catalyst point to a value trap rather than a coiled spring. The bearish case wins on technical weight and market realities regarding pricing power and slowing enterprise budgets.
+
+**Strategic Actions**: Reduce exposure to TCS.NS incrementally, trimming the standard allocation by half to mitigate downside risk while the stock remains locked below its key moving averages.

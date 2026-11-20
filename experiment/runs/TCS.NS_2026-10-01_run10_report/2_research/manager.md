@@ -1,0 +1,5 @@
+**Recommendation**: Underweight
+
+**Rationale**: While the bull makes a case for TCS.NS being a resilient industry leader trading near an oversold RSI of 36.11, the bear's technical and structural arguments carry the debate. The price sits at 2064.03, well below both the 50-day SMA (2264.40) and the 200-day SMA (2467.64), with a deeply negative MACD (-62.92) and a VWMA (2119.90) above the current price, proving that buyers are trapped and institutional distribution is active. Without a clear catalyst to overcome pricing power erosion and negative momentum, the risk of a value trap outweighs the immediate upside.
+
+**Strategic Actions**: Begin trimming existing exposure on any minor technical bounces toward the 10-day EMA or VWMA. Reduce allocation by 50% relative to a standard position size, holding cash while avoiding new entries until the stock demonstrates a bottoming formation or reclaims key moving averages.

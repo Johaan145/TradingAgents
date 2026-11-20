@@ -1,0 +1,5 @@
+**Recommendation**: Underweight
+
+**Rationale**: The bear case convincingly demonstrates that the technical headwinds for TCS.NS are severe and structural, rather than merely a temporary sentiment shift. With the price trading decisively below both the 50-day (2264.40) and 200-day (2467.64) SMAs, a negative MACD (-62.92), and a VWMA (2119.90) sitting above the current price, the evidence points to ongoing institutional distribution rather than accumulation. While the bull highlights attractive valuation metrics like a low RSI and proximity to the Bollinger Lower Band, catching a falling knife in a shifting technological landscape presents too much downside risk. Consequently, trimming exposure is the prudent path.
+
+**Strategic Actions**: Reduce exposure to TCS.NS by cutting the current position size by 50% relative to a standard allocation. Set a strict monitoring protocol around the Bollinger Lower Band near 1972.52 to evaluate whether support holds, but refrain from adding new capital until the MACD crosses positively and the price reclaims the 50-day SMA.

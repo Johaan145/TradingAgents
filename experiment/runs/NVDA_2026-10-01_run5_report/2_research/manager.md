@@ -1,0 +1,5 @@
+**Recommendation**: Overweight
+
+**Rationale**: The bull case wins on structural momentum and institutional support. While the bear raises valid concerns about capex concentration, hardware cycles, and hyperscaler competition, the technical evidence shows NVDA comfortably above its 50-day and 200-day SMAs with an RSI of 60.22 and a positive MACD histogram, indicating strong trend integrity rather than exhaustion. I am leaning Overweight to capture ongoing upside while acknowledging the need for disciplined risk management around the upper Bollinger band.
+
+**Strategic Actions**: Accumulate NVDA gradually via phased entries rather than deploying full allocation at once. Scale into the position toward the midpoint safety net around 223.46 if tactical pullbacks occur, keeping a standard-sized allocation limit in place to manage volatility and potential mean-reversion risks.

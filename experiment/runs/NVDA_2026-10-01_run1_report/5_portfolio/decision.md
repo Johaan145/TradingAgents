@@ -1,0 +1,9 @@
+**Rating**: Overweight
+
+**Executive Summary**: Initiate a tiered position in NVDA with a half-allocation at current market prices around $230.86 to capture ongoing technical momentum, while holding the remaining half to scale in if the price pulls back toward the 10-day EMA support at $226.43. Set the stop-loss slightly below the 50-day SMA at $215.00 to account for market noise and the 5.82 ATR. Target scaling or taking profits as the stock approaches the Bollinger Upper Band of $235.53 over a short- to medium-term horizon.
+
+**Investment Thesis**: The investment thesis is built on a synthesis of the aggressive and neutral analyst perspectives, leaning heavily into the ongoing structural dominance and positive momentum while addressing valid volatility concerns. NVDA is trading comfortably above both its 50-day and 200-day SMAs with a healthy RSI of 60.22 and positive MACD divergence, signaling that strong buying pressure remains intact and rendering a complete 'wait-and-see' approach unnecessarily risky for missing potential upside. However, recognizing the Conservative Analyst's warning regarding the tight resistance at the Bollinger Upper Band of $235.53 and the risk of a premature stop-out at the 50-day SMA ($217.61), a tiered entry strategy combined with a widened stop-loss at $215.00 provides the optimal risk-adjusted framework. This allows the portfolio to capture immediate momentum without over-allocating at the top of a short-term range. What would change this thesis is a breakdown below the 50-day SMA with high volume or a sharp momentum reversal in the MACD, which would invalidate the bullish trend and necessitate reducing exposure.
+
+**Price Target**: 235.53
+
+**Time Horizon**: 1-3 months

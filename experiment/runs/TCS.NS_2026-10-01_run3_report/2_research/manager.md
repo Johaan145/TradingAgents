@@ -1,0 +1,5 @@
+**Recommendation**: Underweight
+
+**Rationale**: While the bull makes a compelling long-term case regarding TCS.NS and its fundamental role in digital transformation, the bear's technical evidence is overwhelmingly decisive in the short-to-medium term. With the stock trading far below both its 50-day SMA (2264.40) and 200-day (2467.64), accompanied by a deep negative MACD (-62.92) and an RSI of 36.11, the market is demonstrating sustained institutional selling pressure rather than mere noise. Buying at this stage amounts to catching a falling knife. Therefore, the bearish momentum wins the argument for now, warranting a cautious trim of exposure.
+
+**Strategic Actions**: Reduce existing exposure in TCS.NS by 50% relative to a standard allocation to manage downside risk while the price tests support near the lower Bollinger Band of 1972.52. Avoid initiating new long positions until the stock demonstrates a confirmed trend reversal by reclaiming the 10-day EMA and 50-day SMA.

@@ -1,0 +1,5 @@
+**Recommendation**: Underweight
+
+**Rationale**: The bear case convincingly demonstrates that RELIANCE.NS is undergoing a major redistribution with momentum firmly against it, trading well below both its 50-day and 200-day moving averages and showing negative MACD values (-29.32). While the bull highlights an oversold RSI of 28.15 and a fire-sale valuation, the bear rightly cautions against catching a falling knife when capital costs and institutional selling pressure create a high-probability risk of breaching the lower Bollinger Band support (1159.03). Given the severe technical weakness and downward momentum, trimming exposure is the prudent path until momentum shows a genuine change in character.
+
+**Strategic Actions**: Reduce exposure to RELIANCE.NS by trimming 50% of a standard allocation size to manage downside risk and preserve capital while the stock remains below its key moving averages.

@@ -1,0 +1,5 @@
+**Recommendation**: Sell
+
+**Rationale**: The debate demonstrates a clear dominance by the bear thesis. While the bull argues that TCS.NS is a high-quality blue chip experiencing a value reset near the lower Bollinger Band (1972.52) with an RSI of 36.11, the bear successfully highlights the relentless downward momentum and structural downtrend. Trading well below both the 50 SMA (2264.40) and 200 SMA (2467.64), combined with a deeply negative MACD (-62.92) and inability to reclaim the 10 EMA (2082.59), shows persistent institutional distribution rather than a temporary dip. The bear's argument regarding client spending fatigue and heightened ATR volatility (58.47) confirms that catching a falling knife presents unacceptable downside risk, tipping the scales heavily toward an exit.
+
+**Strategic Actions**: Execute an exit or aggressively trim exposure on any minor intraday rallies toward the 10 EMA (2082.59). For an existing standard allocation, systematically liquidate 100% of the position to mitigate further downside risk toward the lower Bollinger Band (1972.52) and prevent capital erosion in a confirmed structural downtrend.

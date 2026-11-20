@@ -1,0 +1,5 @@
+**Recommendation**: Underweight
+
+**Rationale**: The bear analyst successfully demonstrated that TCS.NS is in a sustained downtrend with the price trading significantly below both the 50-day SMA (2264.40) and the 200-day SMA (2467.64), alongside a negative MACD histogram (-62.92) indicating accelerating bearish momentum. While the bull analyst points to a low RSI (36.11) and historical compounding as a sign of value, the bear effectively argues that 'oversold' conditions in a persistent bear market often precede further capitulation rather than a sharp reversal. Furthermore, overhead supply from institutional investors trapped above 2200 creates a massive wall of sellers. The argument for trimming exposure wins out due to the clear institutional distribution and absence of a bullish reversal pattern.
+
+**Strategic Actions**: Reduce exposure to TCS.NS by trimming half of the standard allocation to mitigate downside risk while the stock continues to trade below its key moving averages and the 10-day EMA (2082.59).
